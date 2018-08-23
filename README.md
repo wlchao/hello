@@ -1,2 +1,2 @@
 # hello
-just begin
+yes,this my first github.
